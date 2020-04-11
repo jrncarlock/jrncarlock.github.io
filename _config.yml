@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/schhp?hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jrncarlock"
@@ -77,6 +74,9 @@ author:
     - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/J_Nicolas-Carlock"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/schhp?hl=en"
 
 footer:
   links:
