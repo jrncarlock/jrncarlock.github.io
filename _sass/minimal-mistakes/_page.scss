@@ -84,7 +84,7 @@ body {
 
 .page__content {
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.0em; // modified from 0.5
     border-bottom: 1px solid $border-color;
   }
 
@@ -205,7 +205,7 @@ body {
     }
 
     .page__title {
-      font-size: $type-size-3; //modified from 2
+      font-size: $type-size-2; //modified from 2
 
       @include breakpoint($small) {
         font-size: $type-size-1;
