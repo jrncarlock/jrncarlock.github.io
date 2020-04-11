@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "JRNC"
+  name   : "José R. Nicolás-Carlock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I’m a physicist and complexity scientist."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
