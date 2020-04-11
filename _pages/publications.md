@@ -1,5 +1,5 @@
 ---
-title: "Scientific & Technical Publications"
+title: "Publications"
 permalink: /publications/
 classes: wide
 ---
