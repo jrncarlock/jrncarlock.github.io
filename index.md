@@ -1,5 +1,5 @@
 ---
-<!-- title: "Home" -->
+title: "Home"
 layout: single
 classes: wide
 permalink: /
