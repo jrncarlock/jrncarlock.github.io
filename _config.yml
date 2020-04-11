@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "José R. Nicolás-Carlock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I’m a physicist and complexity scientist with interest in social systems."
+  bio    : "I’m a physicist and complexity scientist with interest in social systems. @jrncarlock"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
