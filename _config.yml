@@ -66,7 +66,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/schhp?hl=en"
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-researchgate"
+      icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/J_Nicolas-Carlock"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
