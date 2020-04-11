@@ -1,4 +1,5 @@
 ---
+classes: wide
 permalink: /about/
 title: "About"
 ---
