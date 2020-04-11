@@ -1,8 +1,9 @@
 ---
 title: "Home"
 layout: single
+classes: wide
 permalink: /
 author_profile: true
 ---
 
-# Welcome
+Welcome to my website.
