@@ -16,13 +16,16 @@ National System of Researchers (SNI-C)
 
 E-mail: `jnicolas(at)unam.mx`
 
-### Research Experience:
+
+**Research Experience:**
 
 2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
 2018 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
 2017 – Research Assistant \| Institute of Physics, Autonomous University of Puebla, Mexico.
+
+2015 – Visiting Researcher \| Faculty of Physics, University of Barcelona, Spain.
 
 ### Professional Studies:
 
