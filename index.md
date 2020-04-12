@@ -17,7 +17,6 @@ National Autonomous University of Mexico (UNAM)
 National System of Researchers (SNI-C)
 
 E-mail: `jnicolas(at)unam.mx`
-
 ## Research Experience:
 
 2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
