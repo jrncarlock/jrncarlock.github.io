@@ -50,13 +50,18 @@ E-mail: `jnicolas(at)unam.mx`
 
 ## Publications
 
-2020 – Corruption and complexity: a scientific framework for the analysis of corruption networks. I. Luna-Pla & J. R. Nicolás-Carlock, *Applied Network Science* 5.
+### 2020
 
-2020 – The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics, J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, *Chaos, Solitons & Fractals*, 133, 109649.
+– Corruption and complexity: a scientific framework for the analysis of corruption networks. I. Luna-Pla & J. R. Nicolás-Carlock, *Applied Network Science* 5.
+– The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics, J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, *Chaos, Solitons & Fractals*, 133, 109649.
 
-2019 – A universal dimensionality function for the fractal dimensions of Laplacian growth. J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. *Scientific Reports* 9, 1120.
+### 2019
 
-2016 – Fractality à la carte: a general particle aggregation model. J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. *Scientific Reports* 6, 19505.
+– A universal dimensionality function for the fractal dimensions of Laplacian growth. J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. *Scientific Reports* 9, 1120.
+
+### 2016
+
+– Fractality à la carte: a general particle aggregation model. J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. *Scientific Reports* 6, 19505.
 
 ## Science Communication
 
