@@ -93,5 +93,5 @@ A worldwide collaborative effort from leading experts, practitioners, and studen
 
 [![complejidad]({{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png){: .full}](https://complexityexplained.github.io/)
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.jpg" alt="complejidad" class="full" style="opacity:0.4;filter:alpha(opacity=40);">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.4;filter:alpha(opacity=40);">
 
