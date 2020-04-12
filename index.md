@@ -21,7 +21,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the enforced disappearances, corruption and impunity.
 
-### Research Experience: 
+#### Research Experience: 
 
 2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
@@ -31,7 +31,7 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 
 2015 – Visiting Researcher \| Faculty of Physics, University of Barcelona, Spain.
 
-### Professional Studies:
+#### Professional Studies:
 
 2017 – PhD in Physics (with Honors) \| Autonomous University of Puebla, Mexico.
 
@@ -39,7 +39,7 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 
 2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
 
-### Relevant Studies and Experience:
+#### Relevant Studies and Experience:
 
 2019 – *Basic Elements of Law* \| National Autonomous University of Mexico, Mexico.
 
@@ -81,11 +81,11 @@ Full list:
 
 ## Science Communication
 
-### @RedCompleja: Redes y Sistemas Complejos en Español
+#### @RedCompleja: Redes y Sistemas Complejos en Español
 
 A space dedicated to the Spanish speaking community about complex systems and network science. \| Un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Founders: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
 
-### Complexity Explained
+#### Complexity Explained
 
 A worldwide collaborative effort from leading experts, practitioners, and students in the field, that aims to explained the main concepts and ideas of complex systems science in a simple and accessible manner. \[[Website](https://complexityexplained.github.io/)\]
 * **Complexity Explained.** M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
