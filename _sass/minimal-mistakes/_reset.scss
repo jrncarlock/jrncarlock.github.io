@@ -9,11 +9,11 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   //font-size: 16px;
-   font-size: 11px; //10
+   font-size: 12px; //10
 
   @include breakpoint($medium) {
     //font-size: 18px;
-     font-size: 11px; //12
+     font-size: 12px; //12
   }
 
   @include breakpoint($large) {
