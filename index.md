@@ -6,8 +6,6 @@ permalink: /
 author_profile: true
 ---
 
-Dr. José R. Nicolás-Carlock
-
 Postdoctoral Fellow
 
 Institute of Legal Research
