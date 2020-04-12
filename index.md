@@ -79,7 +79,7 @@ Full list:
 ## Science Communication
 
 * **Redes y Sistemas Complejos en Español (@redcompleja):** A space dedicated to the Spanish speaking community about complex systems and network sciences. \| Un espacio de divulgación en Español enfocado a las ciencias de sistemas complejos y de redes. **Co-founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock
-* **Complexity Explained:** A worldwide collaborative effort from leading experts, practitioners and students in the field, to answer that question in a simple and accessible manner. Website: https://complexityexplained.github.io/
+* **Complexity Explained:** A worldwide collaborative effort from leading experts, practitioners and students in the field, to answer that question in a simple and accessible manner. Website: [complexityexplained.github.io](https://complexityexplained.github.io/)
   * *Complexity Explained.* M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
   * *Complejidad Explicada* \[Spanish translation of *Complexity Explained*\]. V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
 
