@@ -23,7 +23,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the enforced disappearances, corruption and impunity.
 
-#### Research Experience: 
+#### Professional Experience: 
 
 2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
@@ -41,7 +41,7 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 
 2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
 
-#### Relevant Studies and Experience:
+#### Relevant Studies & Experience:
 
 2019 – *Basic Elements of Law* \| National Autonomous University of Mexico, Mexico.
 
