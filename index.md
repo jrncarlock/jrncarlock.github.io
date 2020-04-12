@@ -20,8 +20,6 @@ E-mail: `jnicolas(at)unam.mx`
 
 2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
-
-
 2018 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
 2017 – Research Assistant \| Institute of Physics, Autonomous University of Puebla, Mexico.
