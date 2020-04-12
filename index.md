@@ -6,6 +6,8 @@ permalink: /
 author_profile: true
 ---
 
+José R. Nicolás Carlock
+
 Postdoctoral Researcher
 
 Institute of Legal Research
