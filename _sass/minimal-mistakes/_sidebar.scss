@@ -80,7 +80,7 @@
     right: 0;
     width: $right-sidebar-width-narrow;
     margin-right: -1 * $right-sidebar-width-narrow;
-    padding-left: 5em; //From 1
+    padding-left: 1em; //From 1
     z-index: 10;
 
     &.sticky {
@@ -141,7 +141,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
-  padding-right: 25px;
+  padding-right: 125px; //From 25
   line-height: 1;
 
   @include breakpoint($large) {
