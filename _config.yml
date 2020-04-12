@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "José R. Nicolás-Carlock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Postdoctoral Researcher \| Physics & Complexity Science"
+  bio    : "Postdoc at the Institute of Legal Research of the National Autonomous University of Mexico (UNAM)."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
