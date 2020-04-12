@@ -17,7 +17,6 @@ National System of Researchers (SNI-C)
 E-mail: `jnicolas(at)unam.mx`
 
 # Short Profile
-***
 
 I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the enforced disappearances, corruption and impunity.
 
