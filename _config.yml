@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "José R. Nicolás-Carlock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Postdoctoral Researcher at the Institute of Legal Research of the National Autonomous University of Mexico (UNAM)."
+  bio    : "Postdoctoral Researcher at the Institute of Legal Research of the National Autonomous University of Mexico (UNAM). Email: jnicolas@unam.mx"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
