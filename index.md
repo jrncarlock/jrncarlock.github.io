@@ -82,7 +82,7 @@ Full list:
 
 * **Complexity Explained:** A worldwide collaborative effort from leading experts, practitioners and students in the field, to answer that question in a simple and accessible manner. Website: https://complexityexplained.github.io/
 
-  * Complexity Explained. M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
+  * *Complexity Explained.* M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
 
-  * Complejidad Explicada \[*Spanish translation of Complexity Explained*\]. V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás Carlock (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
+  * *Complejidad Explicada* \[Spanish translation of Complexity Explained\]. V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás Carlock (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
 
