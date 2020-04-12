@@ -141,7 +141,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
-  padding-right: 125px; //From 25
+  padding-right: 25px; //From 25
   line-height: 1;
 
   @include breakpoint($large) {
@@ -167,11 +167,12 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4; //From 5
 }
 
 .author__bio {
-  margin: 0;
+  //margin: 0;
+   margin-right: 10px;
 
   @include breakpoint($large) {
     margin-top: 10px;
