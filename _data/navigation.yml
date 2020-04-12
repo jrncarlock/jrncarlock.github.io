@@ -8,6 +8,8 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /publications/
+   #url: /publications/
+   url: /#publications
   - title: "Sci-Comm"
-    url: /sci_comm/
+    #url: /sci_comm/
+    url: /#science-communication
