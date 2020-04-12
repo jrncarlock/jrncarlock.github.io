@@ -61,20 +61,20 @@ Full list:
 
 #### 2020
 
-* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, *Applied Network Science* 5. \[doi:[https://doi.org/10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\]
-* **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, *Chaos, Solitons & Fractals*, 133, 109649. \[doi:[https://doi.org/10.1016/j.chaos.2020.109649](https://doi.org/10.1016/j.chaos.2020.109649)\]\[arxiv:[https://arxiv.org/abs/1803.03715](https://arxiv.org/abs/1803.03715)\]
+* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, *Applied Network Science* 5. \[doi: [https://doi.org/10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\]
+* **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, *Chaos, Solitons & Fractals*, 133, 109649. \[doi: [https://doi.org/10.1016/j.chaos.2020.109649](https://doi.org/10.1016/j.chaos.2020.109649)\]\[arxiv: [https://arxiv.org/abs/1803.03715](https://arxiv.org/abs/1803.03715)\]
 
 #### 2019
 
-* **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. *Scientific Reports* 9, 1120. \[doi:[https://doi.org/10.1038/s41598-018-38084-3](https://doi.org/10.1038/s41598-018-38084-3)\]
+* **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. *Scientific Reports* 9, 1120. \[doi: [https://doi.org/10.1038/s41598-018-38084-3](https://doi.org/10.1038/s41598-018-38084-3)\]
 
 #### 2017
 
-* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. *Scientific Reports* 7 (1), 3523. \[doi:[https://doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
+* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. *Scientific Reports* 7 (1), 3523. \[doi: [https://doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
 
 #### 2016
 
-* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. *Scientific Reports* 6, 19505. \[doi:[https://doi.org/10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
+* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. *Scientific Reports* 6, 19505. \[doi: [https://doi.org/10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
 
 ## Science Communication
 
