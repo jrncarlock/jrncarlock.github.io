@@ -6,9 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-## Contact
-
-Postdoctoral Fellow
+Postdoctoral Researcher
 
 Institute of Legal Research
 
@@ -54,7 +52,9 @@ E-mail: `jnicolas(at)unam.mx`
 
 Full list: 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\]
-\[ResearchGate\] \[Scopus\] \[ORCID: 0000-0003-4065-372X\]
+\[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
+\[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
+\[[ORCID: 0000-0003-4065-372X](http://orcid.org/0000-0003-4065-372X)\]
 
 #### 2020
 
