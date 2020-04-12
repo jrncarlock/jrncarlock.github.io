@@ -15,9 +15,9 @@ National Autonomous University of Mexico (UNAM)
 National System of Researchers (SNI-C)
 
 E-mail: `jnicolas(at)unam.mx`
-  
-  
-# Short Profile
+
+
+## Short Profile
 
 I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the enforced disappearances, corruption and impunity.
 
@@ -51,7 +51,8 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 
 2013 – *Spring College on Physics of Complex Systems* \| International Centre for Theoretical Physics, Italy.
 
-# Publications
+
+## Publications
 
 Full list: 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\]
@@ -77,7 +78,8 @@ Full list:
 
 * **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. *Scientific Reports* 6, 19505. \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
 
-# Science Communication
+
+## Science Communication
 
 ### @RedCompleja: Redes y Sistemas Complejos en Español
 
