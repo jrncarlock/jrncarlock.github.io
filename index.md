@@ -54,7 +54,7 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 
 ## Publications
 
-Full list: 
+Also: 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
 \[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
 \[[Academia](https://unam.academia.edu/jrncarlock)\] 
