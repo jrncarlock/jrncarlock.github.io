@@ -20,7 +20,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 ## Short Profile
 
-I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
+I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
 
 #### Professional Experience: 
 
