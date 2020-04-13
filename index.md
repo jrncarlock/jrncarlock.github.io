@@ -72,7 +72,7 @@ Also:
 
 ##### 2017
 
-* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Salmono">*Scientific Reports*</span> 7 (1), 3523 (2017). \[[doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
+* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Salmon">*Scientific Reports*</span> 7 (1), 3523 (2017). \[[doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
 
 ##### 2016
 
