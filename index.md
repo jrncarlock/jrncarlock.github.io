@@ -72,11 +72,11 @@ Also:
 
 ##### 2017
 
-* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. *Scientific Reports* 7 (1), 3523 (2017). \[[doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
+* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Tomato">*Scientific Reports*</span> 7 (1), 3523 (2017). \[[doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
 
 ##### 2016
 
-* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color: DodgerBlue">*Scientific Reports*</span> 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
+* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:DodgerBlue">*Scientific Reports*</span> 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
 
 ## Science Communication
 
