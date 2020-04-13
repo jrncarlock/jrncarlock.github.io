@@ -63,11 +63,17 @@ author:
   bio    : "Postdoctoral Researcher at the Institute of Legal Research of the National Autonomous University of Mexico (UNAM) / E-mail: jnicolas(at)unam.mx"
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-google fa-fw"
       url: "https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate fa-fw"
+      url: "https://www.researchgate.net/profile/J_Nicolas-Carlock"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jrncarlock/"
+#    - label: "Medium"
+#      icon: "fab fa-medium fa-fw"
+#      url: "https://medium.com/@jrncarlock"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jrncarlock"
@@ -77,9 +83,6 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "Medium"
-      icon: "fab fa-medium fa-fw"
-      url: "https://medium.com/@jrncarlock"
 
 footer:
   links:
