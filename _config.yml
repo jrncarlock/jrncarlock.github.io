@@ -78,7 +78,7 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
     - label: "Medium"
-      icon: "fab fa-medium"
+      icon: "fab fa-medium fa-fw"
       url: "https://medium.com/@jrncarlock"
 
 footer:
