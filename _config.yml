@@ -77,9 +77,9 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "RG"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/J_Nicolas-Carlock"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@jrncarlock"
 
 footer:
   links:
