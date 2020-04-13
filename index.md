@@ -42,15 +42,15 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 
 #### Relevant Studies & Experience:
 
-2019 – *Basic Elements of Law* \| National Autonomous University of Mexico, Mexico.
+2019 – *Basic Elements of Law* (Diploma) \| UNAM, Mexico.
 
-2018 – *Complex Networks Winter Workshop* \| University of Vermont, Complex Systems Center, Canada.
+2018 – *Complex Networks Winter Workshop* \| UVM Complex Systems Center, Canada.
 
-2016 – *Summer School in Complexity* \| New England Complex Systems Institute, USA.
+2016 – *Summer School in Complexity* \| NECSI, USA.
 
-2014 – *School on Hands-On Research in Complex Systems* \| International Centre for Theoretical Physics, Italy.
+2014 – *School on Hands-On Research in Complex Systems* \| ICTP, Italy.
 
-2013 – *Spring College on Physics of Complex Systems* \| International Centre for Theoretical Physics, Italy.
+2013 – *Spring College on Physics of Complex Systems* \| ICTP, Italy.
 
 ## Publications
 
