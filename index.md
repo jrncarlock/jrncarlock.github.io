@@ -20,8 +20,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 ## Short Profile
 
-I’m a physicist and complexity{: style="color: red"} scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches. <span style="color: red">written in
-red</span>
+I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
 
 #### Professional Experience: 
 
@@ -77,7 +76,7 @@ Also:
 
 ##### 2016
 
-* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. *Scientific Reports* 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
+* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color: DodgerBlue">*Scientific Reports*</span> 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
 
 ## Science Communication
 
