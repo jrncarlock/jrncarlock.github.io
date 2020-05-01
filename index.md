@@ -63,7 +63,7 @@ Also:
 
 ##### 2020
 
-* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 (2020). \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\]
+* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 (2020). \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\] / As part of the Special Issue on the "[Structure and Dynamics of Crime](https://www.springeropen.com/collections/NetCrime)".
 * **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span>, 133, 109649 (2020). \[[doi:10.1016/j.chaos.2020.109649](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[arxiv:1803.03715](https://arxiv.org/abs/1803.03715)\]
 
 ##### 2019
