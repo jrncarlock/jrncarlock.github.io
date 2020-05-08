@@ -8,9 +8,9 @@ author_profile: true
 
 I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
 
-## Contact
+## Contact information
 
-José R. Nicolás Carlock
+José R. Nicolás-Carlock
 
 Postdoctoral Researcher
 
