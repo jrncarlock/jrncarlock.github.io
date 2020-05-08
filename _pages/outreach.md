@@ -4,9 +4,9 @@ permalink: /outreach/
 classes: wide
 ---
 
-## @RedCompleja: Redes y Sistemas Complejos en Español
+## RedCompleja
 
-A space dedicated to the Spanish speaking community about complex systems and network science. \| Un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Founders: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
+**RedCompleja** is a space dedicated to the Spanish speaking community about complex systems and network science. \| **RedCompleja** es un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Founders: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
 
 ## Complexity Explained
 
