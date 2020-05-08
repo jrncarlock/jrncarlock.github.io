@@ -7,7 +7,7 @@ classes: wide
 ## RedCompleja
 
 <a href="https://twitter.com/redcompleja">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/redcompleja.png" alt="complejidad" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/redcompleja.png" alt="redcompleja" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
 
 &nbsp;
 
