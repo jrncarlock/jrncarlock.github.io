@@ -170,35 +170,7 @@
   font-size: $type-size-4; //From 5
 }
 
-.author__position {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
-}
-
-.author__affiliation {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
-}
-
-.author__sni {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
-}
-
-
-.author__email {
+.author__bio {
   margin: 0;
 
   @include breakpoint($large) {
