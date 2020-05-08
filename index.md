@@ -1,10 +1,14 @@
 ---
-title: "Contact"
+title: "Welcome!"
 layout: single
 classes: wide
 permalink: /
 author_profile: true
 ---
+
+I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
+
+## Contact
 
 José R. Nicolás Carlock
 
@@ -19,8 +23,6 @@ National System of Researchers (SNI-C)
 E-mail: `jnicolas(at)unam.mx`
 
 ## Short Profile
-
-I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
 
 #### Professional Experience: 
 
@@ -51,55 +53,4 @@ I’m a physicist and complexity scientist with interest in social phenomena. My
 2014 – *School on Hands-On Research in Complex Systems* \| ICTP, Italy.
 
 2013 – *Spring College on Physics of Complex Systems* \| ICTP, Italy.
-
-## Publications
-
-Also: 
-\[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
-\[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
-\[[Academia](https://unam.academia.edu/jrncarlock)\] 
-\[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
-\[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
-
-##### 2020
-
-* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 (2020). \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\] / As part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)".
-* **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span>, 133, 109649 (2020). \[[doi:10.1016/j.chaos.2020.109649](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[arxiv:1803.03715](https://arxiv.org/abs/1803.03715)\]
-
-##### 2019
-
-* **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 9, 1120 (2019). \[[doi:10.1038/s41598-018-38084-3](https://doi.org/10.1038/s41598-018-38084-3)\]
-
-##### 2017
-
-* **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Salmon">*Scientific Reports*</span> 7 (1), 3523 (2017). \[[doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
-
-##### 2016
-
-* **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
-
-## Science Communication
-
-#### @RedCompleja: Redes y Sistemas Complejos en Español
-
-A space dedicated to the Spanish speaking community about complex systems and network science. \| Un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Founders: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
-
-#### Complexity Explained
-
-<a href="https://complexityexplained.github.io/">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.75;filter:alpha(opacity=75);"></a>
-
-A worldwide collaborative effort from leading experts, practitioners, and students in the field that aims to explain the main concepts and ideas of complex systems science in an accessible manner. Main website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
-
-* **Complexity Explained.** M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
-* **Complejidad Explicada** \[Spanish translation of *Complexity Explained*\]. V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock (2019). \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
-
-<!-- 
-[![complejidad]({{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png){: .full}](https://complexityexplained.github.io/) 
--->
-
-<!-- 
-<a href="https://complexityexplained.github.io/">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.75;filter:alpha(opacity=75);"></a>
--->
 
