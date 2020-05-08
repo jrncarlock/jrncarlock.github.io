@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-Welcome to my website! I’m a physicist and _complexity scientist_ with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
+I’m a physicist and _complexity scientist_ with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
 
 <!--
 ## Contact information
