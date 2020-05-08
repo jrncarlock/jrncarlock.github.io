@@ -6,6 +6,11 @@ classes: wide
 
 ## RedCompleja
 
+<a href="https://twitter.com/redcompleja">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/redcompleja.png" alt="complejidad" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+
+&nbsp;
+
 **RedCompleja** is a space dedicated to the Spanish speaking community about complex systems and network science. \| **RedCompleja** es un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Founders: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
 
 ## Complexity Explained
