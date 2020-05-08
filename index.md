@@ -8,21 +8,19 @@ author_profile: true
 
 I’m a physicist and complexity scientist with interest in social phenomena. My current work deals with the interdisciplinary study of enforced disappearances, corruption and impunity from data, networks and complex systems approaches.
 
+<!--
 ## Contact information
-
 José R. Nicolás-Carlock
-
 Postdoctoral Researcher
-
 Institute of Legal Research
-
 National Autonomous University of Mexico (UNAM)
-
 National System of Researchers (SNI-C)
-
 E-mail: `jnicolas(at)unam.mx`
+-->
 
 ## Short Profile
+
+National System of Researchers (SNI-C).
 
 #### Professional Experience: 
 
