@@ -188,6 +188,15 @@
   }
 }
 
+.author__bio3 {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px; //20
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
