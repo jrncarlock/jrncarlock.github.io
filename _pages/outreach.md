@@ -4,11 +4,13 @@ permalink: /outreach/
 classes: wide
 ---
 
-## @RedCompleja: Redes y Sistemas Complejos en Español
+## Science Communication
+
+### @RedCompleja: Redes y Sistemas Complejos en Español
 
 A space dedicated to the Spanish speaking community about complex systems and network science. \| Un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Founders: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
 
-## Complexity Explained
+### Complexity Explained
 
 <a href="https://complexityexplained.github.io/">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.75;filter:alpha(opacity=75);"></a>
