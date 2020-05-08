@@ -11,7 +11,9 @@ classes: wide
 ## Complexity Explained
 
 <a href="https://complexityexplained.github.io/">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.75;filter:alpha(opacity=75);"></a>  
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.75;filter:alpha(opacity=75);"></a>
+
+&nbsp;
 
 **Complexity Explained** is a worldwide collaborative effort from leading experts, practitioners, and students in the field that aims to explain the main concepts and ideas of complex systems science in an accessible manner. Main website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
 
