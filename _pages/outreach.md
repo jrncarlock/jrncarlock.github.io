@@ -9,9 +9,10 @@ classes: wide
 <a href="https://twitter.com/redcompleja">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/redcompleja.png" alt="redcompleja" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
 
+<!--
 &nbsp;
-
 **Red Compleja** es un espacio de divulgación en Español sobre la ciencia de sistemas complejos y redes. \| Fundadores: Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
+-->
 
 &nbsp;
 
