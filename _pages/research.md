@@ -30,6 +30,6 @@ Also available here:
 
 ## Outreach Publications
 
-* **Complexity Explained** (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\] _Authors_: M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama.
+* (2019) **Complexity Explained** \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\] _Authors_: M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama.
 
-* **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\) (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\] _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock.
+* (2019) **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\) \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\] _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock.
