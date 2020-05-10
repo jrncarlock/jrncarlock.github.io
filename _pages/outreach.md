@@ -16,7 +16,7 @@ classes: wide
 
 &nbsp;
 
-**Red Compleja** (Spanish for _Complex Network_) is a space dedicated to the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
+**Red Compleja** (Spanish for _Complex Network_) is a space dedicated to the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & <span style="color:DodgerBlue">José R. Nicolás-Carlock</span> \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
 
 ## Complexity Explained
 
