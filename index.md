@@ -1,5 +1,5 @@
 ---
-title: "Bienvenido!"
+title: "Welcome!"
 layout: single
 classes: wide
 permalink: /
