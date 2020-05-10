@@ -5,10 +5,10 @@ main:
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
-  - title: "Home"
+  - title: "Inicio"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "Outreach"
-    url: /outreach/
+#  - title: "Research"
+#    url: /research/
+#  - title: "Outreach"
+#    url: /outreach/
     
