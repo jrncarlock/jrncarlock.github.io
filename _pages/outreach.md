@@ -31,7 +31,7 @@ Contributor to **Complexity Explained**: a worldwide collaborative effort from l
 * **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\) (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\] _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, <span style="color:CornflowerBlue">J. R. Nicolás-Carlock</span>.
 
 ## Con-Ciencia Magazine
-Former editor (2018) and contributor (2015, 2018) to _Con-Ciencia Magazine_: A science-communication project by students and professors in STEM areas hosted by the Institute of Physics of the Autonomous University of Puebla, Mexico. All issues [here](http://www.ifuap.buap.mx/vinculacion/revistaCon-ciencia.php).
+Former editor (2018) and contributor (2015, 2018) to _Con-Ciencia Magazine_: A science-communication project by students and professors in STEM related areas hosted by the Institute of Physics of the Autonomous University of Puebla, Mexico. All issues [here](http://www.ifuap.buap.mx/vinculacion/revistaCon-ciencia.php).
 
 <!-- 
 [![complejidad]({{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png){: .full}](https://complexityexplained.github.io/) 
