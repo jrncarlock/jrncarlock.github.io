@@ -27,3 +27,9 @@ Also available here:
 #### 2016
 
 * **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
+
+## Outreach Publications
+
+* **Complexity Explained** (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\] _Authors_: M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama.
+
+* **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\) (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\] _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock.
