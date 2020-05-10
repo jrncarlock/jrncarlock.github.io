@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m a physicist and _complexity scientist_ with interest in social phenomena. My current [research](https://jrncarlock.github.io/research/) deals with the interdisciplinary study of enforced disappearances, corruption and impunity, from [data, networks and complex systems](https://jrncarlock.github.io/outreach/) approaches.
+My name is _José R. Nicolás-Carlock_, I’m a physicist and complexity scientist with interest in social phenomena. My current [research](https://jrncarlock.github.io/research/) deals with the interdisciplinary study of enforced disappearances, corruption and impunity, from [data, networks and complex systems](https://jrncarlock.github.io/outreach/) approaches.
 
 <!--
 ## Contact information
