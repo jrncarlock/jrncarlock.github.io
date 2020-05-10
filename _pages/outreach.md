@@ -16,7 +16,7 @@ classes: wide
 
 &nbsp;
 
-**Red Compleja** (Spanish for _Complex Network_) is a space dedicated to the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & <span style="color:DodgerBlue">José R. Nicolás-Carlock</span> \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
+Co-founder of **Red Compleja** (Spanish for _Complex Network_): a space dedicated to the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & <span style="color:CornflowerBlue">José R. Nicolás-Carlock</span> \| Twitter: [@redcompleja](https://twitter.com/redcompleja)
 
 ## Complexity Explained
 
@@ -25,7 +25,7 @@ classes: wide
 
 &nbsp;
 
-**Complexity Explained** is a worldwide collaborative effort from leading experts, practitioners, and students in the field that aims to explain the main concepts and ideas of complex systems science in an accessible manner. Main website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
+Contributor to **Complexity Explained**: a worldwide collaborative effort from leading experts, practitioners, and students in the field that aims to explain the main concepts and ideas of complex systems science in an accessible manner. Main website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
 
 * **Complexity Explained** (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\] _Authors_: M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama.
 * **Complejidad Explicada** (Spanish translation of *Complexity Explained*\) (2019) \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\] _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock.
