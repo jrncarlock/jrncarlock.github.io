@@ -4,7 +4,8 @@ permalink: /research/
 classes: wide
 ---
 
-Full publication list available also here: 
+Full publication list available also here:
+
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
 \[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
 \[[Academia](https://unam.academia.edu/jrncarlock)\] 
