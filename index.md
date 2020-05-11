@@ -26,23 +26,21 @@ National System of Researchers (SNI-C).
 
 2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
-2018 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
+2018/2019 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
 
-2017 – Research Assistant \| Institute of Physics, Autonomous University of Puebla, Mexico.
-
-2015 – Visiting Researcher \| Faculty of Physics, University of Barcelona, Spain.
+2017/2018 – Research Assistant \| Institute of Physics, Autonomous University of Puebla, Mexico.
 
 #### Professional Studies:
 
-2017 – PhD in Physics (with Honors) \| Autonomous University of Puebla, Mexico.
+2013/2017 – PhD in Physics (with Honors) \| Autonomous University of Puebla, Mexico.
 
-2012 – M. Sc. in Physics \| Autonomous University of Puebla, Mexico.
+2011/2012 – M. Sc. in Physics \| Autonomous University of Puebla, Mexico.
 
-2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
+2004/2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
 
 #### Relevant Studies & Experience:
 
-2019 – *Basic Elements of Law* (Diploma) \| UNAM, Mexico.
+2019 – *Fundamentals of the Law* (Diploma) \| UNAM, Mexico.
 
 2018 – *Complex Networks Winter Workshop* \| UVM Complex Systems Center, Canada.
 
