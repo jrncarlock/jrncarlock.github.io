@@ -52,3 +52,12 @@ National System of Researchers (SNI-C).
 
 2013 – *Spring College on Physics of Complex Systems* \| ICTP, Italy.
 
+#### Reviewer for:
+
+_Complexity_
+
+_Applied Network Science_
+
+_Journal of Physics Communications_
+
+_Physica A: Statistical Mechanics and its Applications_
