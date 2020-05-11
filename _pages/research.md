@@ -35,7 +35,7 @@ Full publication list available also here:
 
 * **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 6, 19505 (2016). \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
 
-## Outreach
+## Complexity Science
 
 #### 2019
 
