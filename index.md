@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-My name is _José R. Nicolás-Carlock_, I’m a physicist and complexity scientist with interest in social phenomena. My current [research](https://jrncarlock.github.io/research/) deals with the interdisciplinary study of enforced disappearances, corruption and impunity, from [data, networks and complex systems](https://jrncarlock.github.io/outreach/) approaches.
+My name is _José R. Nicolás-Carlock_, I’m a physicist and complexity scientist with interest in social phenomena. I'm currently a postdoctoral fellow at the Institute of Legal Research of Mexico's UNAM where my [research](https://jrncarlock.github.io/research/) deals with the interdisciplinary study of enforced disappearances, corruption and impunity, using [data, networks and complex systems](https://jrncarlock.github.io/outreach/) approaches.
 
 <!--
 ## Contact information
@@ -24,11 +24,17 @@ National System of Researchers (SNI-C).
 
 #### Professional Experience: 
 
-2020 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
+* _Postdoctoral Researcher_ (Currently)
 
-2018/2019 – Postdoctoral Researcher \| Institute of Legal Research, UNAM, Mexico.
+Institute of Legal Research, UNAM, Mexico.
 
-2017/2018 – Research Assistant \| Institute of Physics, Autonomous University of Puebla, Mexico.
+* _Postdoctoral Researcher_ (2018-2019)
+
+Institute of Legal Research, UNAM, Mexico.
+
+* _Research Assistant_ (2017-2018)
+
+Institute of Physics, Autonomous University of Puebla, Mexico.
 
 #### Professional Studies:
 
@@ -40,7 +46,7 @@ National System of Researchers (SNI-C).
 
 #### Relevant Studies & Experience:
 
-2019 – *Fundamentals of the Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
+2019 – *Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
 
 2018 – *Complex Networks Winter Workshop* \| UVM Complex Systems Center, Canada.
 
