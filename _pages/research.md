@@ -40,6 +40,6 @@ Full publication list available also here:
 
 #### 2019
 
-* **Complexity Explained** \[[PDF](https://complexityexplained.github.io/ComplexityExplained.pdf)\] _Authors_: M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama.
+* **Complexity Explained** M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama. \[[doi:10.17605/OSF.IO/TQGNW](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
 
-* **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\) \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\] _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock.
+* **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\) _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock. \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
