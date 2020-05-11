@@ -40,7 +40,7 @@ National System of Researchers (SNI-C).
 
 #### Relevant Studies & Experience:
 
-2019 – *Fundamentals of the Law* (Diploma) \| UNAM, Mexico.
+2019 – *Fundamentals of the Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
 
 2018 – *Complex Networks Winter Workshop* \| UVM Complex Systems Center, Canada.
 
