@@ -18,6 +18,13 @@ Full publication list available also here:
 
 * **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 (2020). \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\] / As part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)".
 
+* 
+
+On the media:
+
+* Luna-Pla, I. (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"** _El Universal_, México.\[[article\]]{https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?}
+* Luna-Pla, I. (2019) **"Pemex y UAEM en la red de la Estafa Maestra"** _Milenio_, México. \[[video\]]{https://www.youtube.com/watch?v=zqWOV565TKc}
+
 ## Fractal Growth Phenomena
 
 #### 2020
