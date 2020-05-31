@@ -24,7 +24,7 @@ Full publication list available also here:
 
 On the media (_in Spanish_):
 
-* Luna-Pla, I. (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"** _El Universal_, México.\[[article\]](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)
+* Luna-Pla, I. (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"** _El Universal_, México. \[[article\]](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)
 * Luna-Pla, I. (2019) **"Pemex y UAEM en la red de la Estafa Maestra"** _Milenio_, México. \[[video\]](https://www.youtube.com/watch?v=zqWOV565TKc)
 
 ## Fractal Growth Phenomena
