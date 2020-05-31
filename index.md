@@ -20,7 +20,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 ## Short Profile
 
-I'm a National System of Researchers (SNI-C).
+National System of Researchers (SNI-C).
 
 #### Professional Experience: 
 
