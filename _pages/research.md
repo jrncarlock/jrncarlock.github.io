@@ -16,7 +16,7 @@ Full publication list available also here:
 
 #### 2020
 
-* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 (2020). \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\] / As part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)".
+* **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 (2020). -- As part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)". \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\].
 
 #### 2019
 
