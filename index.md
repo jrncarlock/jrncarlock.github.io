@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-My name is _José R. Nicolás-Carlock_, I’m a physicist and complexity scientist with interest in social phenomena. I'm currently a postdoctoral fellow at the Institute of Legal Research of Mexico's UNAM where my [research](https://jrncarlock.github.io/research/) focuses on the interdisciplinary study of enforced disappearances, corruption and impunity, using [data, networks and complex systems](https://jrncarlock.github.io/outreach/) approaches.
+My name is _José R. Nicolás-Carlock_, I’m a physicist and _complexity scientist_ with interest in social phenomena (corruption, crime and society). I'm currently a postdoctoral fellow at the Institute of Legal Research of Mexico's UNAM. My [research](https://jrncarlock.github.io/research/) focuses on the interdisciplinary study of enforced disappearances and corruption using [data, networks and complex systems science](https://jrncarlock.github.io/outreach/) approaches.
 
 <!--
 ## Contact information
