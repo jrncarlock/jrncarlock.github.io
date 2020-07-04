@@ -24,11 +24,11 @@ I'm member of Mexico's _National System of Researchers_ (SNI-C).
 
 #### Professional Experience: 
 
-* _Postdoctoral Researcher_ (Current position) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: Enforced disappearances in Mexico.
+* _Postdoctoral Researcher_ (Current position) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Enforced disappearances in Mexico._
 
-* _Postdoctoral Researcher_ (2018-2019) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: Corruption in Mexico.
+* _Postdoctoral Researcher_ (2018-2019) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Corruption in Mexico._
 
-* _Research Assistant_ (2017-2018) - Institute of Physics, Autonomous University of Puebla, Mexico. \| Project: Self-Organized Phenomena in Physics.
+* _Research Assistant_ (2017-2018) - Institute of Physics, Autonomous University of Puebla, Mexico. \| Project: _Self-Organized Phenomena in Physics._
 
 #### Professional Studies:
 
