@@ -26,9 +26,9 @@ National System of Researchers (SNI-C).
 
 * _Postdoctoral Researcher_ (Current position) - Institute of Legal Research, UNAM, Mexico \| Project: Enforced disappearances in Mexico.
 
-* _Postdoctoral Researcher_ (2018-2019) - Institute of Legal Research, UNAM, Mexico \| Project theme: Corruption in Mexico.
+* _Postdoctoral Researcher_ (2018-2019) - Institute of Legal Research, UNAM, Mexico \| Project: Corruption in Mexico.
 
-* _Research Assistant_ (2017-2018) - Institute of Physics, Autonomous University of Puebla, Mexico.
+* _Research Assistant_ (2017-2018) - Institute of Physics, Autonomous University of Puebla, Mexico. \| Project: Self-Organized Phenomena in Physics.
 
 #### Professional Studies:
 
