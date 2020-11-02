@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m a physicist and _complexity scientist_ with interest in social phenomena. I'm currently a postdoctoral fellow at the Institute of Legal Research of Mexico's UNAM. My [research](https://jrncarlock.github.io/research/) deals with the interdisciplinary study of enforced disappearances and corruption using [data, networks and complex systems science](https://jrncarlock.github.io/outreach/) approaches.
+I’m a interdisciplinary [researcher](https://jrncarlock.github.io/research/) (trained as a physicist) interested in looking at society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/).
 
 <!--
 ## Contact information
@@ -20,11 +20,9 @@ E-mail: `jnicolas(at)unam.mx`
 
 ## Short Profile
 
-I'm member of Mexico's _National System of Researchers_ (SNI-C).
-
 #### Professional Experience: 
 
-* _Postdoctoral Researcher_ (Current position) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Enforced disappearances in Mexico._
+* _Postdoctoral Researcher_ (2020) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Enforced disappearances in Mexico._
 
 * _Postdoctoral Researcher_ (2018-2019) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Corruption in Mexico._
 
@@ -38,7 +36,7 @@ I'm member of Mexico's _National System of Researchers_ (SNI-C).
 
 2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
 
-#### Relevant Studies & Experience:
+#### Other Studies & Experience:
 
 2019 – *Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
 
