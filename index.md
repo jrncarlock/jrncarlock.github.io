@@ -22,7 +22,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 #### Professional Experience: 
 
-* _(Electoral) Advisor_ (2020-Present) - Electoral Institute of Mexico City (IECM).
+* _Advisor_ (2020-Present) - Electoral Institute of Mexico City (IECM).
 
 * _Postdoctoral Researcher_ (2020) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Enforced disappearances in Mexico._
 
