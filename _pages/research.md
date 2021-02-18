@@ -11,12 +11,6 @@ Full publication list also here:
 \[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
-## Complexity Science
-
-* (2019) **Complexity Explained: A Grassroot Collaborative Initiative to Create a Set of Essential Concepts of Complex Systems.** M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama. \[[doi:10.17605/OSF.IO/TQGNW](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
-
-* (2019) **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\). _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock. \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
-
 ## Corruption
 
 <!--
@@ -45,3 +39,9 @@ On the media (_in Spanish_):
 * (2017) **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Salmon">*Scientific Reports*</span> 7 (1), 3523. \[[doi:10.1038/s41598-017-03491-5](https://doi.org/10.1038/s41598-017-03491-5)\]
 
 * (2016) **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 6, 19505. \[[doi:10.1038/srep19505](https://doi.org/10.1038/srep19505)\]
+
+## Complexity Science
+
+* (2019) **Complexity Explained: A Grassroot Collaborative Initiative to Create a Set of Essential Concepts of Complex Systems.** M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama. \[[doi:10.17605/OSF.IO/TQGNW](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
+
+* (2019) **Complejidad Explicada** (Spanish transl. of *Complexity Explained*\). _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J. R. Nicolás-Carlock. \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
