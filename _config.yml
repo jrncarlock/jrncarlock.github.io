@@ -65,7 +65,7 @@ analytics:
     anonymize_ip         : false # true, false (default)
 
 author:
-  name   : "José R. Nicolás-Carlock"
+  name   : "José Roberto Nicolás-Carlock"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "E-mail: jnicolas(at)unam.mx"
   bio2   : " "
