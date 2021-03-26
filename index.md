@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m an interdisciplinary [researcher](https://jrncarlock.github.io/research/) (trained as a physicist) interested in studying society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/).
+I’m an interdisciplinary [researcher](https://jrncarlock.github.io/research/) (trained as a physicist) interested in studying nature and society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/).
 
 <!--
 ## Contact information
