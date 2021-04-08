@@ -17,7 +17,11 @@ Full publication list also here:
 #### 2020
 -->
 
-* (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\]. -- As part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)". Data available here: [https://doi.org/10.6084/m9.figshare.12830561](https://doi.org/10.6084/m9.figshare.12830561)
+* (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\]. 
+
+  As part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)". 
+  
+  Data available here: [https://doi.org/10.6084/m9.figshare.12830561](https://doi.org/10.6084/m9.figshare.12830561)
 
 * (2019) **The Master Fraud (La Estafa Maestra) Network Visualizations**. Full structure: [Government, Universities, Companie and Personnel](https://oci.juridicas.unam.mx/detalle-casos-de-estudio/113/diagrama-de-red-%22estafa-maestra%22); Upper structure: [Government and Universities](https://oci.juridicas.unam.mx/detalle-casos-de-estudio/114/diagrama-de-red-%22estafa-maestra-convenios%22). (_In Spanish_)
 
