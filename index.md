@@ -38,7 +38,7 @@ E-mail: `jnicolas(at)unam.mx`
 
 2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
 
-#### Other Studies & Experience:
+#### Relevant Training:
 
 2019 – *Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
 
