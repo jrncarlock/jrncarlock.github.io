@@ -32,11 +32,11 @@ E-mail: `jnicolas(at)unam.mx`
 
 #### Professional Studies:
 
-2017 – PhD in Physics (with Honors) \| Autonomous University of Puebla, Mexico.
+2017 – **PhD in Physics** (with Honors) \| Autonomous University of Puebla, Mexico.
 
-2012 – M. Sc. in Physics \| Autonomous University of Puebla, Mexico.
+2012 – **M. Sc. in Physics** \| Autonomous University of Puebla, Mexico.
 
-2010 – B. Sc. in Physics \| Autonomous University of Oaxaca, Mexico.
+2010 – **B. Sc. in Physics** \| Autonomous University of Oaxaca, Mexico.
 
 #### Relevant Training:
 
