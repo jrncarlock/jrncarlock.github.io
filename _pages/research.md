@@ -17,6 +17,8 @@ Full publication list also here:
 #### 2020
 -->
 
+* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span> 5 \[[doi:10.3389/fphy.2021.667471](https://doi.org/10.3389/fphy.2021.667471)\]. 
+
 * (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5 \[[doi:10.1007/s41109-020-00258-2](https://doi.org/10.1007/s41109-020-00258-2)\]. 
 
   Data available here: [https://doi.org/10.6084/m9.figshare.12830561](https://doi.org/10.6084/m9.figshare.12830561)
