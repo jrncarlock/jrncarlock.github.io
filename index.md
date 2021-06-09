@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m a [researcher](https://jrncarlock.github.io/research/) (trained as a physicist) interested in the interdisciplinary study of nature and society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/).
+I’m a researcher (trained as a physicist) interested in the interdisciplinary study of nature and society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/). My [research](https://jrncarlock.github.io/research/) topics include fractal growth, corruption networks and disappearances. 
 
 <!--
 ## Contact information
