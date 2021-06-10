@@ -17,7 +17,7 @@ Full publication list also here:
 #### 2020
 -->
 
-* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span> 5 \[[doi:10.3389/fphy.2021.667471](https://doi.org/10.3389/fphy.2021.667471)\]. 
+* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span> \[[doi:10.3389/fphy.2021.667471](https://doi.org/10.3389/fphy.2021.667471)\]. 
 
   As part of the Research Topic "[The Physics of the Law: Legal Systems Through the Prism of Complexity Science](https://www.frontiersin.org/research-topics/15018/the-physics-of-the-law-legal-systems-through-the-prism-of-complexity-science#articles)". 
 
