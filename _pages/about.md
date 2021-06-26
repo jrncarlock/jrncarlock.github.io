@@ -4,9 +4,9 @@ permalink: /about/
 classes: wide
 ---
 
-## Short Profile
-
 Further info: jnicolas(at)unam.mx.
+
+## Short Profile
 
 #### Professional Experience: 
 
