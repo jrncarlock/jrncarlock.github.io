@@ -6,7 +6,9 @@ permalink: /
 author_profile: true
 ---
 
-I’m a researcher (trained as a physicist) interested in the multi/interdisciplinary study of nature and society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/). More about my profesional experience and academic profile [here](https://jrncarlock.github.io/about/).
+I’m a researcher (trained as a physicist) interested in the multi/interdisciplinary study of nature and society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/). More about my profesional experience and academic profile [here](https://jrncarlock.github.io/about/). 
+
+You can find more about my research below.
 
 <!--
 ## Contact information
@@ -17,8 +19,6 @@ National Autonomous University of Mexico (UNAM)
 National System of Researchers (SNI-C)
 E-mail: `jnicolas(at)unam.mx`
 -->
-
-# Research
 
 Full publication list also here:
 
