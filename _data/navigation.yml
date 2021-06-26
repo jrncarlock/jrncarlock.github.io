@@ -7,9 +7,9 @@ main:
 #    url: /tags/
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
   - title: "Outreach"
     url: /outreach/
+  - title: "About"
+    url: /about/    
 #  - title: "Español"
 #    url: "https://jrncarlock.github.io/jrncarlock_es/"
