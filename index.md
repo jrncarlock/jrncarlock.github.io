@@ -8,8 +8,6 @@ author_profile: true
 
 I’m a researcher (trained as a physicist) interested in the multi/interdisciplinary study of nature and society from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/). More about my profesional experience and academic profile [here](https://jrncarlock.github.io/about/). 
 
-You can find more about my research below.
-
 <!--
 ## Contact information
 José R. Nicolás-Carlock
@@ -20,6 +18,8 @@ National System of Researchers (SNI-C)
 E-mail: `jnicolas(at)unam.mx`
 -->
 
+## Research
+
 Full publication list also here:
 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
@@ -27,7 +27,7 @@ Full publication list also here:
 \[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
-## Corruption
+### Corruption
 
 <!--
 #### 2020
@@ -48,7 +48,7 @@ On the media (_in Spanish_):
 * (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"**, _El Universal_, México. \[[article\]](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)
 * (2019) **"Pemex y UAEM en la red de la Estafa Maestra"**, _Milenio_, México. \[[video\]](https://www.youtube.com/watch?v=zqWOV565TKc)
 
-## Fractal Growth
+### Fractal Growth
 
 <!--
 #### 2020
