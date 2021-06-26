@@ -28,8 +28,6 @@ classes: wide
 
 2019 – *Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
 
-2018 – *Complex Networks Winter Workshop* \| UVM Complex Systems Center, Canada.
-
 2016 – *Summer School in Complexity* \| NECSI, USA.
 
 2014 – *School on Hands-On Research in Complex Systems* \| ICTP, Italy.
