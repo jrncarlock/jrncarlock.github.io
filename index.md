@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m a researcher (trained as a physicist) interested in the multi/interdisciplinary study of natural systems, social problems, and public policy from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/). My research topics include: fractal morphodynamics, corruption networks and enforced dissapearances. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
+I’m a researcher (trained as a physicist) interested in the multi/interdisciplinary study of natural systems, social problems, and public policy from the perspective of [_complexity science_](https://jrncarlock.github.io/outreach/). My research topics include: fractal morphodynamics, political corruption networks and enforced dissapearances. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
 
 <!--
 ## Contact information
