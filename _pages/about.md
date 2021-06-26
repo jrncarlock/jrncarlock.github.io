@@ -6,6 +6,8 @@ classes: wide
 
 ## Short Profile
 
+Further info: jnicolas(at)unam.mx.
+
 #### Professional Experience: 
 
 * <span style="color:Salmon">_Advisor_</span> (2020-2021) - Electoral Institute of Mexico City (IECM).
