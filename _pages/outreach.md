@@ -4,6 +4,8 @@ permalink: /outreach/
 classes: wide
 ---
 
+Here are some team efforts to make science available to the public.
+
 ## Red Compleja
 
 <a href="https://twitter.com/redcompleja">
