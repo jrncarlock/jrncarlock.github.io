@@ -18,7 +18,7 @@ National System of Researchers (SNI-C)
 E-mail: `jnicolas(at)unam.mx`
 -->
 
-# Research
+## Research
 
 Full publication list also here:
 
