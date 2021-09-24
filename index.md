@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m a researcher interested in the multi/interdisciplinary study of nature and society. My research topics include: fractal morphodynamics, political corruption networks and enforced dissapearances. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
+My name José R. Nicolás-Carlock and I’m a researcher interested in the multi- and inter-disciplinary study of nature and society. My main research topics include: fractal morphodynamics, political corruption networks, and enforced dissapearances. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
 
 <!--
 ## Contact information
