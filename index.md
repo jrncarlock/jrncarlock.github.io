@@ -18,7 +18,7 @@ National System of Researchers (SNI-C)
 E-mail: `jnicolas(at)unam.mx`
 -->
 
-## Research
+## Publications
 
 Full publication list also here:
 
@@ -28,10 +28,6 @@ Full publication list also here:
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
 ### Corruption
-
-<!--
-#### 2020
--->
 
 * (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span> \[[doi:10.3389/fphy.2021.667471](https://doi.org/10.3389/fphy.2021.667471)\]. 
 
@@ -49,10 +45,6 @@ On the media (_in Spanish_):
 * (2019) **"Pemex y UAEM en la red de la Estafa Maestra"**, _Milenio_, México. \[[video\]](https://www.youtube.com/watch?v=zqWOV565TKc)
 
 ### Fractal Growth
-
-<!--
-#### 2020
--->
 
 * (2020) **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span>, 133, 109649. \[[doi:10.1016/j.chaos.2020.109649](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[arxiv:1803.03715](https://arxiv.org/abs/1803.03715)\]
 
