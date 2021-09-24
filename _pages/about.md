@@ -10,7 +10,7 @@ Further info: jnicolas(at)unam.mx
 
 #### Professional Experience: 
 
-* <span style="color:Salmon">_Lead Data Analyst_</span> (2021) - Institute of Legal Research of the National Autonomous University of Mexico (UNAM) \| Project: _Assessment and design of the National Programs of Transparency and Access to Information, and Personal Data Protection 2022-2024._
+* <span style="color:Salmon">_Lead Data Analyst_</span> (2021) - Institute of Legal Research, National Autonomous University of Mexico (UNAM) \| Project: _Assessment and design of the National Programs of Transparency and Access to Information, and Personal Data Protection 2022-2024._
 
 * <span style="color:Salmon">_Advisor_</span> (2020-2021) - Electoral Institute of Mexico City (IECM).
 
