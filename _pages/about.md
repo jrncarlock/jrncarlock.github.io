@@ -18,7 +18,7 @@ Further info: jnicolas(at)unam.mx
 
 * <span style="color:Salmon">_Research Assistant_</span> (2017-2018) - Institute of Physics, Autonomous University of Puebla, Mexico. \| Project: _Self-Organized Phenomena in Physics._
 
-#### Professional Studies:
+#### Education:
 
 2019 – *Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
 
