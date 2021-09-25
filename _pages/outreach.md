@@ -34,4 +34,4 @@ Former editor (2018) and contributor (2015, 2018) to _Con-Ciencia Magazine_: A s
 
 ## Academic Events
 
-* 2020 - Satellite “Corruption Networks: from data analysis to public policy” (Virtual Event), Network Science Conference (NetSci); Rome, Italy; Sep 19, 2020. Web: https://sites.google.com/view/netsci2020-corruption-networks/home
+* 2020 - Satellite “Corruption Networks: from data analysis to public policy” (Virtual Event), Network Science Conference (NetSci); Rome, Italy; Sep 19, 2020. Web: [https://sites.google.com/view/netsci2020-corruption-networks/home](https://sites.google.com/view/netsci2020-corruption-networks/home)
