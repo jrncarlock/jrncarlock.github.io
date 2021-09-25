@@ -36,10 +36,10 @@ Further info: jnicolas(at)unam.mx
 
 #### Reviewer for:
 
-(_Complexity_)[https://www.hindawi.com/journals/complexity/]
+[_Complexity_](https://www.hindawi.com/journals/complexity/)
 
-(_Applied Network Science_)[https://appliednetsci.springeropen.com/]
+[_Applied Network Science_](https://appliednetsci.springeropen.com/)
 
-(_Journal of Physics Communications_)[https://iopscience.iop.org/journal/2399-6528]
+[_Journal of Physics Communications_](https://iopscience.iop.org/journal/2399-6528)
 
-(_Physica A: Statistical Mechanics and its Applications_)[https://www.journals.elsevier.com/physica-a-statistical-mechanics-and-its-applications]
+[_Physica A: Statistical Mechanics and its Applications_](https://www.journals.elsevier.com/physica-a-statistical-mechanics-and-its-applications)
