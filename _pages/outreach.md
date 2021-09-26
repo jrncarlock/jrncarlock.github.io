@@ -18,7 +18,7 @@ Here are some team efforts to make science available to the public as well as so
 
 &nbsp;
 
-Co-founder of **Red Compleja** (Spanish for _Complex Network_): a science-communication project dedicated to the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
+2019 - Co-founder of **Red Compleja** (Spanish for _Complex Network_): a science-communication project dedicated to the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
 
 ## Complexity Explained
 
@@ -27,7 +27,7 @@ Co-founder of **Red Compleja** (Spanish for _Complex Network_): a science-commun
 
 &nbsp;
 
-Contributor to **Complexity Explained**: a worldwide collaborative effort from leading experts, practitioners, and students in the field that aims to explain the main concepts and ideas of complex systems science in an accessible manner. Main website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
+2019 - Contributor to **Complexity Explained**: a worldwide collaborative effort from leading experts, practitioners, and students in the field that aims to explain the main concepts and ideas of complex systems science in an accessible manner. Main website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
 
 * **Complexity Explained** M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J. R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama. \[[doi:10.17605/OSF.IO/TQGNW](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
 
