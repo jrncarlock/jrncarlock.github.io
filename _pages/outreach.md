@@ -6,6 +6,11 @@ classes: wide
 
 Here are some team efforts to make science available to the public as well as some academic events I have co-organized.
 
+
+## Academic Events
+
+* 2020 - Satellite “Corruption Networks: from data analysis to public policy” (Virtual Event), Network Science Conference (NetSci); Rome, Italy; Sep 19, 2020. Web: [https://sites.google.com/view/netsci2020-corruption-networks/home](https://sites.google.com/view/netsci2020-corruption-networks/home)
+
 ## Red Compleja
 
 <a href="https://twitter.com/redcompleja">
@@ -31,7 +36,3 @@ Contributor to **Complexity Explained**: a worldwide collaborative effort from l
 ## Con-Ciencia Magazine
 Former editor (2018) and contributor (2015, 2018) to _Con-Ciencia Magazine_: A science-communication project by students and professors in STEM related areas hosted by the Institute of Physics of the Autonomous University of Puebla, Mexico. All issues [here](http://www.ifuap.buap.mx/vinculacion/revistaCon-ciencia.php).
 
-
-## Academic Events
-
-* 2020 - Satellite “Corruption Networks: from data analysis to public policy” (Virtual Event), Network Science Conference (NetSci); Rome, Italy; Sep 19, 2020. Web: [https://sites.google.com/view/netsci2020-corruption-networks/home](https://sites.google.com/view/netsci2020-corruption-networks/home)
