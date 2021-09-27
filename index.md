@@ -51,8 +51,6 @@ Books:
 * (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span>, ISBN: 978-3-030-81483-0 \[[doi:10.1007/978-3-030-81484-7](https://doi.org/10.1007/978-3-030-81484-7)\]. 
 
 | <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corruption_book.jpg" width="150"> </a>|
-|------------|
-| [Corruption Networks](https://doi.org/10.1007/978-3-030-81484-7) |
 
 
 ### Fractal Growth
