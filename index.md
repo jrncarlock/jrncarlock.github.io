@@ -29,6 +29,8 @@ Full publication list also here:
 
 ### Corruption
 
+* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-carlock, eds), <span style="color:Salmon">*Springer*</span> \[[doi:10.1007/978-3-030-81484-7_9](https://doi.org/10.1007/978-3-030-81484-7_9)\]. 
+
 * (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span> \[[doi:10.3389/fphy.2021.667471](https://doi.org/10.3389/fphy.2021.667471)\]. 
 
   As part of the Research Topic "[The Physics of the Law: Legal Systems Through the Prism of Complexity Science](https://www.frontiersin.org/research-topics/15018/the-physics-of-the-law-legal-systems-through-the-prism-of-complexity-science#articles)". 
@@ -43,6 +45,15 @@ On the media (_in Spanish_):
 
 * (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"**, _El Universal_, México. \[[article\]](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)
 * (2019) **"Pemex y UAEM en la red de la Estafa Maestra"**, _Milenio_, México. \[[video\]](https://www.youtube.com/watch?v=zqWOV565TKc)
+
+Books:
+
+* (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span>, ISBN: 978-3-030-81483-0 \[[doi:10.1007/978-3-030-81484-7](https://doi.org/10.1007/978-3-030-81484-7)\]. 
+
+| <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="https://github.com/jrncarlock/jrncarlock.github.io/blob/master/assets/images/corruption_book.jpg" width="150"> </a>|
+|------------|
+| [Corruption Networks](https://doi.org/10.1007/978-3-030-81484-7) |
+
 
 ### Fractal Growth
 
