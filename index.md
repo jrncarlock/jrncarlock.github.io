@@ -29,7 +29,7 @@ Full publication list also here:
 
 ### Corruption
 
-* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-carlock, eds), <span style="color:Salmon">*Springer*</span> \[[doi:10.1007/978-3-030-81484-7_9](https://doi.org/10.1007/978-3-030-81484-7_9)\]. 
+* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[doi:10.1007/978-3-030-81484-7_9](https://doi.org/10.1007/978-3-030-81484-7_9)\]. 
 
 * (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span> \[[doi:10.3389/fphy.2021.667471](https://doi.org/10.3389/fphy.2021.667471)\]. 
 
