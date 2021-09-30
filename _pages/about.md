@@ -20,19 +20,21 @@ Further info: jnicolas(at)unam.mx
 
 #### Education:
 
-2019 – *Law for Non-Practitioners* (Diploma) \| UNAM, Mexico.
-
 2017 – **PhD in Physics** (with Honors) \| Autonomous University of Puebla, Mexico.
+
+2012 – **M. Sc. in Physics** \| Autonomous University of Puebla, Mexico.
+
+2010 – **B. Sc. in Physics** \| Autonomous University of Oaxaca, Mexico.
+
+#### Additional Studies:
+
+2019 – *Law for Non-Practitioners* (Diploma) \| IIJ-UNAM, Mexico.
 
 2016 – *Summer School in Complexity* \| NECSI, USA.
 
 2014 – *School on Hands-On Research in Complex Systems* \| ICTP, Italy.
 
 2013 – *Spring College on Physics of Complex Systems* \| ICTP, Italy.
-
-2012 – **M. Sc. in Physics** \| Autonomous University of Puebla, Mexico.
-
-2010 – **B. Sc. in Physics** \| Autonomous University of Oaxaca, Mexico.
 
 #### Reviewer for:
 
