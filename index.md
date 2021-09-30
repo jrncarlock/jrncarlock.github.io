@@ -29,11 +29,11 @@ Full publication list also here:
 
 ### Corruption
 
-* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\]. 
+* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in [_Corruption Networks: Concepts and Applications_](https://doi.org/10.1007/978-3-030-81484-7) (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\]. 
 
-* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Frontiers in Physics*</span>, as part of the Research Topic "[The Physics of the Law: Legal Systems Through the Prism of Complexity Science](https://www.frontiersin.org/research-topics/15018/the-physics-of-the-law-legal-systems-through-the-prism-of-complexity-science#articles)" \[[Open Access](https://doi.org/10.3389/fphy.2021.667471)\][[Data](https://figshare.com/s/1efd3d6ce33f289044fa)\]
+* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, in "[The Physics of the Law: Legal Systems Through the Prism of Complexity Science](https://www.frontiersin.org/research-topics/15018/the-physics-of-the-law-legal-systems-through-the-prism-of-complexity-science#articles)", <span style="color:Salmon">*Frontiers in Physics*</span> \[[Open Access](https://doi.org/10.3389/fphy.2021.667471)\][[Data](https://figshare.com/s/1efd3d6ce33f289044fa)\]
 
-* (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, <span style="color:Salmon">*Applied Network Science*</span> 5, as part of the Special Issue on the "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)" \[[Open Access](https://doi.org/10.1007/s41109-020-00258-2)\]\[[Data](https://doi.org/10.6084/m9.figshare.12830561)\]
+* (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, in "[Structure and Dynamics of Crime](https://link.springer.com/journal/41109/topicalCollection/AC_ec00594d4ee6cbbff42661f67ce6dac4)", <span style="color:Salmon">*Applied Network Science*</span> \[[Open Access](https://doi.org/10.1007/s41109-020-00258-2)\]\[[Data](https://doi.org/10.6084/m9.figshare.12830561)\]
 
 * (2019) **''La Estafa Maestra'' Network Visualizations (_In Spanish_)**. \[[Viz-1](https://oci.juridicas.unam.mx/detalle-casos-de-estudio/113/diagrama-de-red-%22estafa-maestra%22)\]\[[Viz-2](https://oci.juridicas.unam.mx/detalle-casos-de-estudio/114/diagrama-de-red-%22estafa-maestra-convenios%22)\]
 
