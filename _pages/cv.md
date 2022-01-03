@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /about/
+permalink: /cv/
 classes: wide
 ---
 
