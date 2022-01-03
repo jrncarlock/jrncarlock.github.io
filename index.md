@@ -6,7 +6,9 @@ permalink: /
 author_profile: true
 ---
 
-I’m a researcher interested in the study of nature and society from the perspective of complexity science. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
+## About
+
+I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
 
 <!--
 ## Contact information
@@ -21,9 +23,11 @@ Also here:
 \[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
-### Corruption
+### Corruptomica: Complexity Approaches to Corruption
 
 * (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\] \[[ArXiv](https://arxiv.org/abs/2112.13780)\] 
+
+* (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7)\]
 
 * (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, in _The Physics of the Law: Legal Systems Through the Prism of Complexity Science_, <span style="color:Salmon">*Frontiers in Physics*</span> \[[Open Access](https://doi.org/10.3389/fphy.2021.667471)\]\[[Data](https://doi.org/10.6084/m9.figshare.13847612)\]
 
@@ -36,14 +40,11 @@ On the media (_in Spanish_):
 * (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"**, _El Universal_, México. \[[Article\]](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)
 * (2019) **"Pemex y UAEM en la red de la Estafa Maestra"**, _Milenio_, México. \[[Video\]](https://www.youtube.com/watch?v=zqWOV565TKc)
 
-Books:
-
-* (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7)\]. 
-
+<!--
 | <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corruption_book.jpg" width="150"> </a>|
+-->
 
-
-### Fractal Growth
+### Complex Morphodynamics: From Fractals to Networks
 
 * (2020) **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span>, 133, 109649. \[[Online](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[Arxiv](https://arxiv.org/abs/1803.03715)\]
 
