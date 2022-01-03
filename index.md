@@ -8,7 +8,7 @@ author_profile: true
 
 ## About
 
-I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
+I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. More about my professional experience and academic profile [here](https://jrncarlock.github.io/cv/). 
 
 <!--
 ## Contact information
