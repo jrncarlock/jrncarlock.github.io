@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 permalink: /about/
 classes: wide
 ---
@@ -36,12 +36,9 @@ Further info: jnicolas(at)unam.mx
 
 2013 – *Spring College on Physics of Complex Systems* \| ICTP, Italy.
 
-#### Reviewer for:
+#### Publications:
 
-[_Complexity_](https://www.hindawi.com/journals/complexity/)
-
-[_Applied Network Science_](https://appliednetsci.springeropen.com/)
-
-[_Journal of Physics Communications_](https://iopscience.iop.org/journal/2399-6528)
-
-[_Physica A: Statistical Mechanics and its Applications_](https://www.journals.elsevier.com/physica-a-statistical-mechanics-and-its-applications)
+* [Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)
+* [ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)
+* [ORCID](http://orcid.org/0000-0003-4065-372X)
