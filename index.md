@@ -6,21 +6,15 @@ permalink: /
 author_profile: true
 ---
 
-I’m a researcher interested in the multidisciplinary study of nature and society from the perspective of complexity science. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
+I’m a researcher interested in the study of nature and society from the perspective of complexity science. More about my professional experience and academic profile [here](https://jrncarlock.github.io/about/). 
 
 <!--
 ## Contact information
-José R. Nicolás-Carlock
-Postdoctoral Researcher
-Institute of Legal Research
-National Autonomous University of Mexico (UNAM)
-National System of Researchers (SNI-C)
-E-mail: `jnicolas(at)unam.mx`
 -->
 
 ## Publications
 
-Full publication list also here:
+Also here:
 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
 \[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
@@ -29,9 +23,9 @@ Full publication list also here:
 
 ### Corruption
 
-* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\]. 
+* (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\] \[[ArXiv](https://arxiv.org/abs/2112.13780)\] 
 
-* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, in _The Physics of the Law: Legal Systems Through the Prism of Complexity Science_, <span style="color:Salmon">*Frontiers in Physics*</span> \[[Open Access](https://doi.org/10.3389/fphy.2021.667471)\][[Data](https://figshare.com/s/1efd3d6ce33f289044fa)\]
+* (2021) **Conspiracy of Corporate Networks in Corruption Scandals.** J. R. Nicolás-Carlock & I. Luna-Pla, in _The Physics of the Law: Legal Systems Through the Prism of Complexity Science_, <span style="color:Salmon">*Frontiers in Physics*</span> \[[Open Access](https://doi.org/10.3389/fphy.2021.667471)\]\[[Data](https://doi.org/10.6084/m9.figshare.13847612)\]
 
 * (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, in _Structure and Dynamics of Crime_, <span style="color:Salmon">*Applied Network Science*</span> \[[Open Access](https://doi.org/10.1007/s41109-020-00258-2)\]\[[Data](https://doi.org/10.6084/m9.figshare.12830561)\]
 
