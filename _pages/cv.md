@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CV"
 permalink: /about/
 classes: wide
 ---
