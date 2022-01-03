@@ -4,12 +4,7 @@ permalink: /outreach/
 classes: wide
 ---
 
-Here are some team efforts to make science available to the public as well as some academic events I have co-organized.
-
-
-## Academic Events
-
-* 2020 - Satellite “Corruption Networks: from data analysis to public policy” (Virtual Event), Network Science Conference (NetSci); Rome, Italy; Sep 19, 2020. Web: [https://sites.google.com/view/netsci2020-corruption-networks/home](https://sites.google.com/view/netsci2020-corruption-networks/home)
+Here are some efforts to make science available to the public.
 
 ## Red Compleja
 
