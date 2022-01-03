@@ -9,7 +9,6 @@ main:
     url: /
   - title: "Outreach"
     url: /outreach/
-  - title: "About"
-    url: /about/    
-#  - title: "Español"
-#    url: "https://jrncarlock.github.io/jrncarlock_es/"
+  - title: "CV"
+    url: /cv/    
+    
