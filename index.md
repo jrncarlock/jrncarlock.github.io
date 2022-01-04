@@ -50,7 +50,7 @@ On the media (_in Spanish_):
 
 ### Complex Morphodynamics: From Fractals to Networks
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner2.png" alt="corruption" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner2.png" alt="fractals" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
 
 &nbsp;
 
