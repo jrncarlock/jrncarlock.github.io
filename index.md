@@ -50,6 +50,10 @@ On the media (_in Spanish_):
 
 ### Complex Morphodynamics: From Fractals to Networks
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner2.png" alt="corruption" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+
+&nbsp;
+
 * (2020) **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span>, 133, 109649. \[[Online](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[Arxiv](https://arxiv.org/abs/1803.03715)\]
 
 * (2019) **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 9, 1120. \[[Open Access](https://doi.org/10.1038/s41598-018-38084-3)\]
