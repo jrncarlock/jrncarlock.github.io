@@ -25,6 +25,10 @@ Also here:
 
 ### Corruptomica: Complexity Approaches to Corruption
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner1.png" alt="corruption" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+
+&nbsp;
+
 * (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\] \[[ArXiv](https://arxiv.org/abs/2112.13780)\] 
 
 * (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7)\]
