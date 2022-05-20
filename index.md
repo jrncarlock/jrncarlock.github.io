@@ -8,7 +8,7 @@ author_profile: true
 
 ## About
 
-I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. I'm currently a <span style="color:Salmon">_Postdoctoral Researcher_</span> in the _Department of Complex Systems_ at the Institute of Physics of the National Autonomous University of Mexico (UNAM). Project _Understanding social structure through a complex systems approach (multiplex social networks)._ More about my professional experience and academic profile [here](https://jrncarlock.github.io/cv/). 
+I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. I'm currently a <span style="color:Salmon">_Postdoctoral Researcher_</span> in the _Department of Complex Systems_ at the Institute of Physics of the National Autonomous University of Mexico (UNAM), working on _understading social structure through a complex systems approach._ More about my professional experience and academic profile [here](https://jrncarlock.github.io/cv/). 
 
 <!--
 ## Contact information
