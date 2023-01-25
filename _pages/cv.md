@@ -22,11 +22,11 @@ Further info: jnicolas(at)unam.mx
 
 #### Education:
 
-2017 – **PhD in Physics** (with Honors) \| Autonomous University of Puebla, Mexico. Thesis: _Fractal to non-fractal morphological transitions in stochastic growth processes_ \[[PDF](https://github.com/jrncarlock/jrncarlock.github.io/blob/master/assets/docs/tesis-doc-2017.pdf)\]
+* **PhD in Physics** (with Honors) - 2017 \| Autonomous University of Puebla, Mexico. Thesis: _Fractal to non-fractal morphological transitions in stochastic growth processes_ \[[PDF](https://github.com/jrncarlock/jrncarlock.github.io/blob/master/assets/docs/tesis-doc-2017.pdf)\]
 
-2012 – **M. Sc. in Physics** \| Autonomous University of Puebla, Mexico.
+* **M. Sc. in Physics** - 2012 \| Autonomous University of Puebla, Mexico.
 
-2010 – **B. Sc. in Physics** \| Autonomous University of Oaxaca, Mexico. Thesis (in Spanish): _Simulación y análisis cualitativo del movimiento de una partícula cargada dentro de los arreglos de confinamiento magnético lineal y toroidal de espiras_ \[[PDF](https://github.com/jrncarlock/jrncarlock.github.io/blob/master/assets/docs/tesis-lic-2010.pdf)\]
+* **B. Sc. in Physics** -2010 \| Autonomous University of Oaxaca, Mexico. Thesis (in Spanish): _Simulación y análisis cualitativo del movimiento de una partícula cargada dentro de los arreglos de confinamiento magnético lineal y toroidal de espiras_ \[[PDF](https://github.com/jrncarlock/jrncarlock.github.io/blob/master/assets/docs/tesis-lic-2010.pdf)\]
 
 #### Additional Studies:
 
