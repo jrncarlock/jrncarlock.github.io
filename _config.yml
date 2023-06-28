@@ -86,9 +86,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrncarlock"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/roberto.carlock"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://www.instagram.com/roberto.carlock"
 
 footer:
   links:
@@ -98,9 +98,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrncarlock"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/roberto.carlock"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://www.instagram.com/roberto.carlock"
 #    - label: "LinkedIn"
 #     icon: "fab fa-fw fa-linkedin"
 #      url: "https://www.linkedin.com/in/jrncarlock/"
