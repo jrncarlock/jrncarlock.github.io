@@ -8,7 +8,15 @@ author_profile: true
 
 ## About
 
-I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. I'm currently a <span style="color:Salmon">_Postdoctoral Researcher_</span> in the _Department of Complex Systems_ at the Institute of Physics of the National Autonomous University of Mexico (UNAM). More about my professional experience [here](https://jrncarlock.github.io/cv/). 
+I’m a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. 
+
+&nbsp;
+
+Currently, I'm a <span style="color:Salmon">_Postdoctoral Researcher_</span> in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics, and co-leader of the [Observatory of Corruption and Impunity](https://oci.juridicas.unam.mx/) at the Institute of Legal Research of the National Autonomous University of Mexico (UNAM).
+
+&nbsp;
+
+More about my professional experience [here](https://jrncarlock.github.io/cv/). 
 
 <!--
 ## Contact information
@@ -54,13 +62,13 @@ On the media (_in Spanish_):
 
 &nbsp;
 
-* (2020) **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span>, 133, 109649. \[[Online](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[Arxiv](https://arxiv.org/abs/1803.03715)\]
+* (2020) **The dynamics of the angular and radial density correlation scaling exponents in fractal to non-fractal morphodynamics.** J. R. Nicolás-Carlock, J. M. Solano-Altamirano, and J. L. Carrillo-Estrada, <span style="color:Salmon">*Chaos, Solitons & Fractals*</span> \[[Online](https://doi.org/10.1016/j.chaos.2020.109649)\]\[[Arxiv](https://arxiv.org/abs/1803.03715)\]
 
-* (2019) **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 9, 1120. \[[Open Access](https://doi.org/10.1038/s41598-018-38084-3)\]
+* (2019) **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/s41598-018-38084-3)\]
 
-* (2017) **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Salmon">*Scientific Reports*</span> 7 (1), 3523. \[[Open Access](https://doi.org/10.1038/s41598-017-03491-5)\]
+* (2017) **Universal fractality of morphological transitions in stochastic growth processes.** J. R. Nicolás-Carlock, J. L. Carrillo-Estrada, and V. Dossetti. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/s41598-017-03491-5)\]
 
-* (2016) **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> 6, 19505. \[[Open Access](https://doi.org/10.1038/srep19505)\]
+* (2016) **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/srep19505)\]
 
 <!--
 ## Complexity Science
