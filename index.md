@@ -37,6 +37,8 @@ Also here:
 
 &nbsp;
 
+* (2023) **Organized crime behavior of shell-company networks in procurement: prevention insights for policy and reform.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Trends in Organized Crime*</span> \[[Open Access](https://doi.org/10.1007/s12117-023-09499-w)\]\[[Data](https://doi.org/10.6084/m9.figshare.21902160)\]
+
 * (2021) **Corruptomics.** J. R. Nicolás-Carlock & I. Luna-Pla, in _Corruption Networks: Concepts and Applications_ (O. M. Granados & J. R. Nicolás-Carlock, eds), <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7_9)\] \[[ArXiv](https://arxiv.org/abs/2112.13780)\] 
 
 * (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7)\]
@@ -45,12 +47,10 @@ Also here:
 
 * (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, in _Structure and Dynamics of Crime_, <span style="color:Salmon">*Applied Network Science*</span> \[[Open Access](https://doi.org/10.1007/s41109-020-00258-2)\]\[[Data](https://doi.org/10.6084/m9.figshare.12830561)\]
 
-* (2019) **''La Estafa Maestra'' Network Visualizations (_In Spanish_)**. \[[Viz-1](https://oci.juridicas.unam.mx/detalle-casos-de-estudio/113/diagrama-de-red-%22estafa-maestra%22)\]\[[Viz-2](https://oci.juridicas.unam.mx/detalle-casos-de-estudio/114/diagrama-de-red-%22estafa-maestra-convenios%22)\]
-
 On the media (_in Spanish_):
 
-* (2019) **"Estafa Maestra: ¿quién tiene más peso en la red?"**, _El Universal_, México. \[[Article\]](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)
-* (2019) **"Pemex y UAEM en la red de la Estafa Maestra"**, _Milenio_, México. \[[Video\]](https://www.youtube.com/watch?v=zqWOV565TKc)
+* (2019) **"[Estafa Maestra: ¿quién tiene más peso en la red?](https://www.eluniversal.com.mx/opinion/issa-luna-pla/estafa-maestra-quien-tiene-mas-peso-en-la-red?)"**, _El Universal_, México. 
+* (2019) **"[Pemex y UAEM en la red de la Estafa Maestra](https://www.youtube.com/watch?v=zqWOV565TKc)"**, _Milenio_, México.
 
 <!--
 | <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corruption_book.jpg" width="150"> </a>|
