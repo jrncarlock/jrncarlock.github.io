@@ -13,7 +13,7 @@ Here are some efforts to make science available to the public.
 
 &nbsp;
 
-2022 - Co-leader of the **Observatorio de la Corrupción e Impunidad (OCI)** at Universidad Nacional Autónoma de México: a platform for education, dissemination, interdisciplinary discussion and innovation in scientific research on the phenomena of corruption and impunitywith with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. **Founder:** Dr. Issa Luna Pla \| Web: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
+2022 - Co-leader of the **Observatorio de la Corrupción e Impunidad (OCI)** at Universidad Nacional Autónoma de México: a platform for education, interdisciplinary discussion and innovation in scientific research of corruption and impunity with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. **Founder:** Dr. Issa Luna Pla \| Web: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
 
 ## Red Compleja
 
