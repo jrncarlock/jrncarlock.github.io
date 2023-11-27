@@ -14,9 +14,9 @@ I am a researcher (trained as a physicist) interested in the study of nature and
 ## Contact information
 -->
 
-## Publications
+## Publication Highlights
 
-Also here:
+Full publication list:
 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
 \[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
