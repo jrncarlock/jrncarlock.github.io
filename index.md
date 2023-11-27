@@ -35,9 +35,11 @@ Full publication list:
 
 &nbsp;
 
+* (2023) **Organized crime behavior of shell-company networks in procurement: prevention insights for policy and reform.** J. R. Nicolás-Carlock & I. Luna-Pla, <span style="color:Salmon">*Trends in Organized Crime*</span> \[[Open Access](https://doi.org/10.1007/s12117-023-09499-w)\]
+
 * (2021) **Corruption Networks: Concepts and Applications.** O. M. Granados & J. R. Nicolás-Carlock (Eds), _Understanding Complex Systems_ Series, <span style="color:Salmon">*Springer*</span> \[[Online](https://doi.org/10.1007/978-3-030-81484-7)\]
 
-* (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, in _Structure and Dynamics of Crime_, <span style="color:Salmon">*Applied Network Science*</span> \[[Open Access](https://doi.org/10.1007/s41109-020-00258-2)\]\[[Data](https://doi.org/10.6084/m9.figshare.12830561)\]
+* (2020) **Corruption and complexity: a scientific framework for the analysis of corruption networks.** I. Luna-Pla & J. R. Nicolás-Carlock, in _Structure and Dynamics of Crime_, <span style="color:Salmon">*Applied Network Science*</span> \[[Open Access](https://doi.org/10.1007/s41109-020-00258-2)\]
 
 <!--
 | <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corruption_book.jpg" width="150"> </a>|
@@ -49,9 +51,13 @@ Full publication list:
 
 &nbsp;
 
-* (2019) **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/s41598-018-38084-3)\]
+* (2023) **Network efficiency of spatial systems with fractal morphology: a geometric graphs approach.** A. C. Flores-Ortega, J. R. Nicolás-Carlock & J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/s41598-023-45962-y)\]
 
-* (2016) **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti, and J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/srep19505)\]
+* (2023) **Diffusion limited aggregation, resetting and large deviations of Brownian motion.** U. Villanueva-Alacalá, J. R. Nicolás-Carlock & D. Boyer. <span style="color:Salmon">*Molecular Physics*</span> \[[Online](https://doi.org/10.1080/00268976.2023.2276906)\]
+
+* (2019) **A universal dimensionality function for the fractal dimensions of Laplacian growth.** J. R. Nicolás-Carlock & J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/s41598-018-38084-3)\]
+
+* (2016) **Fractality à la carte: a general particle aggregation model.** J. R. Nicolás-Carlock, V. Dossetti & J. L. Carrillo-Estrada. <span style="color:Salmon">*Scientific Reports*</span> \[[Open Access](https://doi.org/10.1038/srep19505)\]
 
 <!--
 ## Complexity Science
