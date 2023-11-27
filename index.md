@@ -23,6 +23,12 @@ Also here:
 \[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
+### Social Structure
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner3.png" alt="social" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
+
+* (2023) **Strength of minority ties: the role of homophily and group composition in a weighted social network.** J. R. Nicolás-Carlock, D. Boyer, S. E. Smith-Aguilar & G. Ramos-Fernández \[[Arxiv](https://arxiv.org/abs/2311.06384)\]
+
 ### Crime and Corruption
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner1.png" alt="corruption" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
@@ -36,12 +42,6 @@ Also here:
 <!--
 | <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corruption_book.jpg" width="150"> </a>|
 -->
-
-### Social Structure
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner3.png" alt="social" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
-
-* (2023) **Strength of minority ties: the role of homophily and group composition in a weighted social network.** J. R. Nicolás-Carlock, D. Boyer, S. E. Smith-Aguilar & G. Ramos-Fernández \[[Arxiv](https://arxiv.org/abs/2311.06384)\]
 
 ### Spatial Networks
 
