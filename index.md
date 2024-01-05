@@ -8,7 +8,7 @@ author_profile: true
 
 ## About
 
-I am a researcher (trained as a physicist) interested in the study of nature and society from the perspective of complexity science. Currently, I'm a <span style="color:Salmon">_Postdoctoral Researcher_</span> in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics, and co-leader of the [Observatory of Corruption and Impunity](https://oci.juridicas.unam.mx/) at the Institute of Legal Research of the National Autonomous University of Mexico (UNAM).
+I am a researcher interested in the study of nature and society from the perspective of complexity science. Currently, I'm a _postdoctoral researcher_ in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics of the National Autonomous University of Mexico (UNAM), and co-leader of the [Corruption and Impunity Observatory](https://oci.juridicas.unam.mx/) at the Institute of Legal Research of UNAM.
 
 <!--
 ## Contact information
