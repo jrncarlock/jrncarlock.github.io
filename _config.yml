@@ -75,7 +75,7 @@ author:
       icon: "fab fa-researchgate fa-fw"
       url: "https://www.researchgate.net/profile/J_Nicolas-Carlock"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jrncarlock/"
 #    - label: "Medium"
 #      icon: "fab fa-medium fa-fw"
@@ -102,7 +102,7 @@ footer:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://www.instagram.com/roberto.carlock"
     - label: "LinkedIn"
-     icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jrncarlock/"
 
 defaults:
