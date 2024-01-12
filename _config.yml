@@ -74,9 +74,9 @@ author:
     - label: "Research Gate"
       icon: "fab fa-researchgate fa-fw"
       url: "https://www.researchgate.net/profile/J_Nicolas-Carlock"
-#    - label: "LinkedIn"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://www.linkedin.com/in/jrncarlock/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jos%C3%A9-r-nicol%C3%A1s-carlock-6695292a6"
 #    - label: "Medium"
 #      icon: "fab fa-medium fa-fw"
 #      url: "https://medium.com/@jrncarlock"
@@ -101,9 +101,9 @@ footer:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://www.instagram.com/roberto.carlock"
-#    - label: "LinkedIn"
-#     icon: "fab fa-fw fa-linkedin"
-#      url: "https://www.linkedin.com/in/jrncarlock/"
+    - label: "LinkedIn"
+     icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jos%C3%A9-r-nicol%C3%A1s-carlock-6695292a6"
 
 defaults:
   # _posts
