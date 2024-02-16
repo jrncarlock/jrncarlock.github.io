@@ -27,7 +27,7 @@ Full publication list:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner3.png" alt="social" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
 
-* (2023) **Strength of minority ties: the role of homophily and group composition in a weighted social network.** J. R. Nicolás-Carlock, D. Boyer, S. E. Smith-Aguilar & G. Ramos-Fernández \[[Arxiv](https://arxiv.org/abs/2311.06384)\]
+* (2023) **Strength of minority ties: the role of homophily and group composition in a weighted social network.** J. R. Nicolás-Carlock, D. Boyer, S. E. Smith-Aguilar & G. Ramos-Fernández, <span style="color:Salmon">*Journal of Physics: Complexity*</span> \[[Open Access](https://doi.org/10.1088/2632-072X/ad2720)\]
 
 ### Crime and Corruption
 
