@@ -62,7 +62,7 @@ analytics:
     anonymize_ip         : false # true, false (default)
 
 author:
-  name   : "José R. Nicolás-Carlock"
+  name   : "Dr. José R. Nicolás-Carlock"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "E-mail: nico.carlock at gmail"
   bio2   : " "
