@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Dr. José R. Nicolás-Carlock"
 layout: single
 classes: wide
 permalink: /
