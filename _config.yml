@@ -78,7 +78,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jrncarlock/"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/jrncarlock.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
