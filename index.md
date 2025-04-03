@@ -43,6 +43,8 @@ Full publication list:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner3.png" alt="social" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
 
+* (2025) **Group identity without social interactions?** Ramos-Fernandez, G., Smith Aguilar, S.E., Pietrangeli, E., Jasso-del Toro, C., Nicolás-Carlock J.R., Boyer, D., Pinacho-Guendulain, B., Montiel Castro, A., Aureli, F. <span style="color:Salmon">*Behavioral and Brain Sciences*</span> \[[Online](https://doi.org/10.1017/S0140525X24001146)\]
+
 * (2024) **Spatial scales of COVID-19 transmission in Mexico.** Klein, B., Hartle, H., Shrestha, M, Zenteno, A.C., Barros-Sierra, D., Nicolas-Carlock, J.R., Bento, A.I., Althouse, B.M., Gutierrez, B., Escalera-Zamudio, M., Reyes-Sandoval, A., Pybus, O.G., Vespignani, A., Diaz-Quiñonez, J.A., Scarpino, S., Kraemer, M., <span style="color:Salmon">*PNAS Nexus*</span> \[[Open Access](https://doi.org/10.1093/pnasnexus/pgae306)\]
 
 * (2024) **Strength of minority ties: the role of homophily and group composition in a weighted social network.** J.R. Nicolás-Carlock, D. Boyer, S.E. Smith-Aguilar & G. Ramos-Fernández, <span style="color:Salmon">*Journal of Physics: Complexity*</span> \[[Open Access](https://doi.org/10.1088/2632-072X/ad2720)\]
