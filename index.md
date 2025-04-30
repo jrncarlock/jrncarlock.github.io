@@ -8,22 +8,22 @@ author_profile: true
 
 ## About
 
-I am a researcher interested in the study of nature and society from the perspective of complexity science. Currently, I'm a _postdoctoral researcher_ in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics of the National Autonomous University of Mexico (UNAM). 
+I am a researcher interested in the study of nature and society from the perspective of complexity science with focus on spatial networks, social dynamics, corruption and violence. Currently, I'm a _postdoctoral researcher_ in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics of the National Autonomous University of Mexico (UNAM). 
 
 <!--
 ## Contact information
 -->
 
-## Publication Highlights
+## Research Highlights
 
-Full publication list:
+A full publication list can be found here:
 
 \[[Google Scholar](https://scholar.google.com/citations?user=Tpqh9iwAAAAJ&hl=en)\] 
 \[[ResearchGate](https://www.researchgate.net/profile/J_Nicolas-Carlock)\] 
 \[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
-### Crime, Corruption & Violence
+### Corruption & Violence
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner1.png" alt="corruption" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
 
@@ -42,6 +42,8 @@ Full publication list:
 ### Complexity in Social Systems
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner3.png" alt="social" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
+
+&nbsp;
 
 * (2025) **Group identity without social interactions?** Ramos-Fernandez, G., Smith Aguilar, S.E., Pietrangeli, E., Jasso-del Toro, C., Nicolás-Carlock J.R., Boyer, D., Pinacho-Guendulain, B., Montiel Castro, A., Aureli, F. <span style="color:Salmon">*Behavioral and Brain Sciences*</span> \[[Online](https://doi.org/10.1017/S0140525X24001146)\]
 
@@ -66,3 +68,38 @@ Full publication list:
 <!--
 ## Complexity Science
 -->
+
+## Sci-comm & Outreach Projects
+
+Here are some efforts to make science accessible to the public.
+
+### Observatorio de la Corrupción e Impunidad
+
+<a href="https://oci.juridicas.unam.mx/">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oci.png" alt="oci" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+
+&nbsp;
+
+Co-leader (2022-2024): **Observatorio de la Corrupción e Impunidad (OCI)** at Universidad Nacional Autónoma de México. A platform for education, interdisciplinary discussion and innovation in scientific research of corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. \| Web: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
+
+### Red Compleja
+
+<a href="https://twitter.com/redcompleja">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/redcompleja.png" alt="redcompleja" class="full" style="opacity:0.95;filter:alpha(opacity=95);"></a>
+
+&nbsp;
+
+Co-founder of **Red Compleja** (2019). A science-communication project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
+
+### Complexity Explained
+
+<a href="https://complexityexplained.github.io/">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/complejidad.png" alt="complejidad" class="full" style="opacity:0.75;filter:alpha(opacity=75);"></a>
+
+&nbsp;
+
+Contributor to **Complexity Explained**. A worldwide effort from the complex systems community to explain the main concepts and ideas of complex systems science in an accessible manner. Website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
+
+* **Complexity Explained** (2019) M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J.R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama. \[[doi:10.17605/OSF.IO/TQGNW](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
+
+* **Complejidad Explicada** (2019) (Spanish transl. of *Complexity Explained*\) _Translators_: V. C. Valerio Holguín, C. Gershenson, J. L. Herrera, J. H. Martínez, M. Rueda Santos, O. López Corona, G. de Anda Jáuregui, G. Iñiguez, A. J. Morales Guzmán, J.R. Nicolás-Carlock. \[[PDF](https://complexityexplained.github.io/ComplexityExplained[Spanish].pdf)\]
