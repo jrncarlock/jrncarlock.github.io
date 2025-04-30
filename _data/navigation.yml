@@ -7,7 +7,7 @@ main:
 #    url: /tags/
   - title: "Home"
     url: /
-  - title: "Outreach"
-    url: /outreach/
+#  - title: "Outreach"
+#    url: /outreach/
 #  - title: "CV"
 #    url: /cv/
