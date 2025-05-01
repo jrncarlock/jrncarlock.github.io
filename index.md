@@ -8,7 +8,7 @@ author_profile: true
 
 ## About
 
-I am a researcher interested in the study of nature and society from the perspective of complexity science with focus on spatial networks, social dynamics, corruption and violence. Currently, I'm a _postdoctoral researcher_ in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics of the National Autonomous University of Mexico (UNAM). 
+I am a researcher interested in the study of nature and society from the perspective of complexity science with focus on _spatial networks, social dynamics, corruption_ and _violence_. Currently, I'm a _postdoctoral researcher_ in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics of the National Autonomous University of Mexico (UNAM). 
 
 <!--
 ## Contact information
@@ -81,7 +81,7 @@ Here are some collaborative efforts (academia and beyond) to make complexity sci
 &nbsp;
 -->
 
-Observatory for Corruption and Impunity (OCI) at the National Autonomous University of Mexico (UNAM). A platform for interdisciplinary scientific research of corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. Co-leader (2022-2024). \| Website: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
+Observatory for Corruption and Impunity (OCI) at the National Autonomous University of Mexico (UNAM). A platform for interdisciplinary research on corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. Co-leader (2022-2024). \| Website: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
 
 ### Red Compleja
 
@@ -91,7 +91,7 @@ Observatory for Corruption and Impunity (OCI) at the National Autonomous Univers
 &nbsp;
 -->
 
-A science-communication project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
+A science-comm project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
 
 ### Complexity Explained
 
@@ -101,7 +101,7 @@ A science-communication project for the Spanish speaking community about complex
 &nbsp;
 -->
 
-A worldwide effort from the complex systems community to explain the main concepts and ideas of complex systems science in an accessible manner. Website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
+A worldwide effort from the complex systems community to explain the main concepts and ideas of complexity science in an accessible manner. Website: [https://complexityexplained.github.io/](https://complexityexplained.github.io/)
 
 * **Complexity Explained** (2019) M. De Domenico, C. Camargo, C. Gershenson, D. Goldsmith, S. Jeschonnek, L. Kay, S. Nichele, J.R. Nicolás-Carlock, T. Schmickl, M. Stella, J. Brandoff, A. J. Martínez Salinas, H. Sayama. \[[doi:10.17605/OSF.IO/TQGNW](https://complexityexplained.github.io/ComplexityExplained.pdf)\]
 
