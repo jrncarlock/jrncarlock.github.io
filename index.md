@@ -91,7 +91,7 @@ Observatory for Corruption and Impunity (OCI) at the National Autonomous Univers
 &nbsp;
 -->
 
-A science-comm project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
+A sci-comm project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
 
 ### Complexity Explained
 
