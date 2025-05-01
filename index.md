@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-# About
+## About
 
 I am a researcher interested in the study of nature and society from the perspective of complexity science with focus on spatial networks, social dynamics, corruption and violence. Currently, I'm a _postdoctoral researcher_ in the [Department of Complex Systems](https://www.fisica.unam.mx/organizacion/personal.php?id=721&lang=en) at the Institute of Physics of the National Autonomous University of Mexico (UNAM). 
 
@@ -14,7 +14,7 @@ I am a researcher interested in the study of nature and society from the perspec
 ## Contact information
 -->
 
-# Research
+## Research
 
 A full publication list can be found here:
 
@@ -69,7 +69,7 @@ A full publication list can be found here:
 ## Complexity Science
 -->
 
-# Sci-comm & Outreach Projects
+## Sci-comm & Outreach Projects
 
 Here are some efforts to make science accessible to the public.
 
