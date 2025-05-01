@@ -81,7 +81,7 @@ Here are some collaborative efforts (academia and beyond) to make complexity sci
 &nbsp;
 -->
 
-Co-leader (2022-2024) of the **Observatorio de la Corrupción e Impunidad (OCI)** at the National Autonomous University of Mexico (UNAM). A platform for education, interdisciplinary discussion and innovation in scientific research of corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. \| Website: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
+ **Observatorio de la Corrupción e Impunidad (OCI)** at the National Autonomous University of Mexico (UNAM). A platform for interdisciplinary scientific research of corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. Co-leader (2022-2024). \| Website: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
 
 ### Red Compleja
 
@@ -91,7 +91,7 @@ Co-leader (2022-2024) of the **Observatorio de la Corrupción e Impunidad (OCI)*
 &nbsp;
 -->
 
-Co-founder (2019). A science-communication project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
+A science-communication project for the Spanish speaking community about complex systems and network science. \| **Founders:** Alfredo J. Morales-Guzmán & José R. Nicolás-Carlock \| X-Twitter: <a href="https://twitter.com/redcompleja">@redcompleja</a>
 
 ### Complexity Explained
 
