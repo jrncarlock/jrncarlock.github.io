@@ -73,7 +73,7 @@ A full publication list can be found here:
 
 Here are some collaborative efforts (academia and beyond) to make complexity science accessible and useful to society.
 
-### Observatorio de la Corrupción e Impunidad
+### Observatorio de la Corrupción e Impunidad (OCI-UNAM)
 
 <!--
 <a href="https://oci.juridicas.unam.mx/">
@@ -81,7 +81,7 @@ Here are some collaborative efforts (academia and beyond) to make complexity sci
 &nbsp;
 -->
 
- **Observatorio de la Corrupción e Impunidad (OCI)** at the National Autonomous University of Mexico (UNAM). A platform for interdisciplinary scientific research of corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. Co-leader (2022-2024). \| Website: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
+Observatory for Corruption and Impunity (OCI) at the National Autonomous University of Mexico (UNAM). A platform for interdisciplinary scientific research of corruption with the aim of contributing to the strengthening of the rule of law and the effective application of legal norms. Co-leader (2022-2024). \| Website: <a href="https://oci.juridicas.unam.mx/">OCI-UNAM</a>
 
 ### Red Compleja
 
