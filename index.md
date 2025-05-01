@@ -23,7 +23,7 @@ A full publication list can be found here:
 \[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57074110400)\] 
 \[[ORCID](http://orcid.org/0000-0003-4065-372X)\]
 
-### Corruption & Violence
+### Crime, Corruption & Violence
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner1.png" alt="corruption" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
 
@@ -39,7 +39,7 @@ A full publication list can be found here:
 | <a href="https://doi.org/10.1007/978-3-030-81484-7"> <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corruption_book.jpg" width="150"> </a>|
 -->
 
-### Complexity in Social Systems
+### Complexity in/of Social Systems
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner3.png" alt="social" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
 
@@ -51,7 +51,7 @@ A full publication list can be found here:
 
 * (2024) **Strength of minority ties: the role of homophily and group composition in a weighted social network.** J.R. Nicolás-Carlock, D. Boyer, S.E. Smith-Aguilar & G. Ramos-Fernández, <span style="color:Salmon">*Journal of Physics: Complexity*</span> \[[Open Access](https://doi.org/10.1088/2632-072X/ad2720)\]
 
-### Complexity in Physical Systems 
+### Complexity in/of Physical Systems 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banner2.png" alt="fractals" class="full" style="opacity:0.95;filter:alpha(opacity=95);">
 
